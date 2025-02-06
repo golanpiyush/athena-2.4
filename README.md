@@ -7,9 +7,7 @@ _"i had panic attacks yesterday"_
 **1. Lowercase Conversion**
 The analyzer first converts the input to lowercase (though in this case it’s already lowercase):
 
-dart
-Copy
-Edit
+
 final lowercaseMessage = "i had panic attacks yesterday";
 
 **2. Topic Analysis**
