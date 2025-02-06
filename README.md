@@ -1,6 +1,6 @@
 # athena-2.4
 
-**Let's walk through an example for how the analyzer would process the following message:**
+**Let's walk through an example for how athena's analyzer would process the following message:**
 
 _"i had panic attacks yesterday"_
 
