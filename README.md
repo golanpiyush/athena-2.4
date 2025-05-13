@@ -2,7 +2,7 @@
 
 
 
-[**NOTICE** : The Project has been abandoned or is deceprecated]
+[**NOTICE** : _The Project has been abandoned or is deceprecated]_
 
 
 
