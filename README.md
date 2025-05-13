@@ -1,9 +1,7 @@
 # Athena-2.4
 
 
-
-[**NOTICE** : _The Project has been abandoned or is deceprecated]_
-
+*NOTICE:* _This project is no longer maintained and has been officially deprecated._
 
 
 *
