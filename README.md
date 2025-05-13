@@ -1,5 +1,15 @@
 # Athena-2.4
 
+
+
+[**NOTICE** : The Project has been abandoned or is deceprecated]
+
+
+
+
+
+
+
 **Let's walk through an example for how athena's analyzer would process the following message:**
 
 _"i had panic attacks yesterday"_
