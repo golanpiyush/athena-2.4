@@ -1,4 +1,4 @@
-# athena-2.4
+# Athena-2.4
 
 **Let's walk through an example for how athena's analyzer would process the following message:**
 
