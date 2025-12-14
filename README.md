@@ -8,6 +8,35 @@
 *
 *
 
+┌───────────────┐
+                 │  INPUT LAYER  │
+                 │ voice, text   │
+                 │ sensors, apps │
+                 └───────┬───────┘
+                         ↓
+┌───────────────┐   ┌───────────────┐
+│ SHORT MEMORY  │←→ │ REASONING CORE│
+│ (context)    │   │ (LLM + logic) │
+└───────┬───────┘   └───────┬───────┘
+        ↓                   ↓
+┌──────────────────────────────────┐
+│     LONG-TERM MEMORY (YOU)       │
+│ personality, family, history     │
+└───────────────┬──────────────────┘
+                ↓
+        ┌───────────────┐
+        │ OUTPUT LAYER  │
+        │ voice, text  │
+        │ screens, IoT │
+        └───────────────┘
+
+
+
+
+
+
+
+
 
 
 **Let's walk through an example for how athena's analyzer would process the following message:**
